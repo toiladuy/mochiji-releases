@@ -53,4 +53,10 @@ Download one of these:
 
 ## Updates
 
-On macOS, Mochiji checks for new versions by itself and installs them in the background. The new version starts the next time you open the app. On every system you can also go to Settings > About and click Check for updates. If you installed the `.deb` on Linux, download the new `.deb` from this page instead.
+Mochiji checks for new versions by itself and downloads them. When one is ready, Restart to update shows up in the tray menu and in Settings > About.
+
+- On macOS and with the Linux AppImage, the new version is already installed, and it also starts by itself the next time you open Mochiji.
+- On Windows, clicking Restart to update closes Mochiji, installs the new version and opens it again.
+- With the Linux `.deb`, Linux asks for your password to install it.
+
+You can also check right away with Settings > About > Check for updates.
